@@ -1,0 +1,60 @@
+﻿"Commuting duration by main mode of commuting and time arriving at work: Canada, provinces and territories, census divisions and census subdivisions of work"
+"Frequency: Occasional"
+"Table: 98-10-0503-01"
+"Release date: 2023-11-15"
+"Geography: Canada, Province or territory, Census division, Census subdivision"
+"Universe: Employed labour force aged 15 years and over having a usual place of work, in private households, 2021 Census — 25% Sample data"
+"Variable List: Main mode of commuting (21), Time arriving at work (16), Commuting duration (7)"
+
+"Geography","Regina i3404",,,,,,
+"Time arriving at work (16) 1","Total - Time arriving at work",,,,,,
+"Commuting duration (7) 2","Total - Commuting duration","Less than 15 minutes","15 to 29 minutes","30 to 44 minutes","45 to 59 minutes","60 minutes and over","Average commuting duration (in minutes)"
+"Main mode of commuting (21) 3"
+"Total - Main mode of commuting 4","77,370","32,050","36,240","5,460","2,185","1,445","16.6"
+"Car, truck or van","69,530","28,565","33,860","4,400","1,700","1,010","16.3"
+"Car, truck or van - as a driver","64,135","26,115","31,380","4,115","1,580","940","16.4"
+"Driver (only worker in vehicle)","61,385","25,340","29,885","3,855","1,425","885","16.3"
+"Driver with 1 passenger","2,455","710","1,340","210","150","45","19.3"
+"Driver with 2 or more passengers","295","60","160","55","10","15","20.9"
+"Car, truck or van - as a passenger","5,400","2,450","2,475","285","120","65","15.3"
+"Passenger (only worker in vehicle)","2,760","1,400","1,235","95","10","15","13.5"
+"Passenger with 2 or more workers","2,375","985","1,065","185","90","45","17.3"
+"Passenger with 3 or more workers","265","65","175","0","10","0","16.9"
+"Sustainable transportation","6,365","2,480","1,970","1,025","475","410","21.1"
+"Public transit","2,900","340","985","785","420","380","31.3"
+"Bus","2,870","315","975","785","420","380","31.5"
+"Subway or elevated rail","0","0","0","0","0","0","..."
+"Light rail, streetcar or commuter train","0","0","0","0","0","0","..."
+"Passenger ferry","25","20","0","0","0","0","6.2"
+"Active transportation","3,465","2,145","985","240","60","35","12.6"
+"Walked","3,015","2,010","725","200","45","30","11.8"
+"Bicycle","455","130","260","45","15","0","18.0"
+"Motorcycle, scooter or moped","45","35","15","0","0","0","10.6"
+"Other method","1,425","970","400","35","0","20","9.6"
+
+Symbol legend:
+..., not applicable
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i3404,"Geography name: Regina; Geographic area type: City; Geographic area type abbreviation: CY; Geographic level: Census subdivision; Province or territory abbreviation: Sask.; Dissemination Geography Unique Identifier (DGUID): 2021A00054706027; Alternative geographic code: 4706027; Province or territory geocode: 47; Long-form total non-response rate: 3.5; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Time arriving at work    Time arriving at work refers to the time of day at which a person usually arrives at their place of work."
+2,"Commuting duration  Commuting duration refers to the length of time, in minutes, usually required by a person to travel to their place of work."
+3,"Main mode of commuting  Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work."
+4,"The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0503-01  Commuting duration by main mode of commuting and time arriving at work: Canada, provinces and territories, census divisions and census subdivisions of work"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810050301

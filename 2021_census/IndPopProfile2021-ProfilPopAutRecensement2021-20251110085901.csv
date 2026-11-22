@@ -1,0 +1,318 @@
+"Regina, City [Census subdivision], Saskatchewan"
+"Topic","Characteristics","Note","Total_Indigenous_household_status(1)","Flag_Total_Indigenous_household_status","Indigenous_household(2)","Flag_Indigenous_household","Non-Indigenous_household","Flag_Non-Indigenous_household"
+"Household size","Total - Private households by household size - 25% sample data",,92130,,10675,,81455,
+"Household size","1 person",,27860,,2360,,25505,
+"Household size","2 persons",,30415,,3515,,26905,
+"Household size","3 persons",,13580,,1890,,11695,
+"Household size","4 persons",,12425,,1580,,10850,
+"Household size","5 or more persons",,7840,,1335,,6505,
+"Household size","Average household size",,2.4,,2.7,,2.4,
+"Household type","Total - Private households by household type including multigenerational households - 25% sample data",,92130,,10675,,81455,
+"Household type","One-census-family households without additional persons: couple without children",,21740,,1765,,19980,
+"Household type","One-census-family households without additional persons: couple with children",3,23660,,2110,,21555,
+"Household type","One-census-family households without additional persons: one-parent family",3,8635,,2420,,6210,
+"Household type","Multigenerational households",4,1980,,465,,1520,
+"Household type","Multiple-census-family households",5,415,,35,,385,
+"Household type","One-census-family households with additional persons",5,3010,,755,,2260,
+"Household type","Two-or-more-person non-census-family households",,4820,,770,,4055,
+"Household type","One-person households",,27860,,2360,,25505,
+"Tenure","Total - Private households by tenure - 25% sample data",6,92130,,10675,,81455,
+"Tenure","Owner",,61215,,4475,,56740,
+"Tenure","Renter",,30910,,6195,,24715,
+"Tenure","Dwelling provided by the local government, First Nation or Indian band",,0,,0,,0,
+"Condominium status","Total - Occupied private dwellings by condominium status - 25% sample data",7,92130,,10675,,81455,
+"Condominium status","Condominium",,14130,,1100,,13025,
+"Condominium status","Not condominium",,78000,,9575,,68425,
+"Number of bedrooms","Total - Occupied private dwellings by number of bedrooms - 25% sample data",8,92130,,10675,,81455,
+"Number of bedrooms","No bedrooms",,505,,105,,405,
+"Number of bedrooms","1 bedroom",,10810,,1340,,9465,
+"Number of bedrooms","2 bedrooms",,23810,,2975,,20830,
+"Number of bedrooms","3 bedrooms",,30900,,3655,,27250,
+"Number of bedrooms","4 or more bedrooms",,26110,,2600,,23505,
+"Number of rooms","Total - Occupied private dwellings by number of rooms - 25% sample data",9,92130,,10675,,81455,
+"Number of rooms","1 to 4 rooms",,27465,,3330,,24130,
+"Number of rooms","5 rooms",,14260,,1865,,12395,
+"Number of rooms","6 rooms",,12630,,1730,,10895,
+"Number of rooms","7 rooms",,11565,,1245,,10315,
+"Number of rooms","8 or more rooms",,26215,,2505,,23710,
+"Number of rooms","Average number of rooms per dwelling",,6.1,,5.9,,6.2,
+"Number of persons per room","Total - Private households by number of persons per room - 25% sample data",10,92130,,10675,,81455,
+"Number of persons per room","One person or fewer per room",,89080,,10390,,78690,
+"Number of persons per room","More than one person per room",,3050,,285,,2765,
+"Housing suitability","Total - Private households by housing suitability - 25% sample data",11,92130,,10675,,81455,
+"Housing suitability","Suitable",,86520,,9530,,76990,
+"Housing suitability","Not suitable",,5610,,1145,,4465,
+"Period of construction","Total - Occupied private dwellings by period of construction - 25% sample data",12,92130,,10675,,81455,
+"Period of construction","1960 or before",,18285,,2835,,15445,
+"Period of construction","1961 to 1980",,31850,,3860,,27985,
+"Period of construction","1981 to 1990",,11435,,1240,,10190,
+"Period of construction","1991 to 2000",,5825,,695,,5130,
+"Period of construction","2001 to 2005",,3955,,280,,3680,
+"Period of construction","2006 to 2010",,5265,,485,,4780,
+"Period of construction","2011 to 2015",,9040,,715,,8330,
+"Period of construction","2016 to 2021",13,6475,,560,,5910,
+"Dwelling condition","Total - Occupied private dwellings by dwelling condition - 25% sample data",14,92130,,10675,,81455,
+"Dwelling condition","Only regular maintenance and minor repairs needed",,85405,,9495,,75910,
+"Dwelling condition","Major repairs needed",,6720,,1180,,5545,
+"Household maintainers","Total - Private households by number of household maintainers - 25% sample data",15,92130,,10675,,81455,
+"Household maintainers","One-maintainer household",,46865,,5940,,40925,
+"Household maintainers","Two-maintainer household",,41230,,4200,,37030,
+"Household maintainers","Three-or-more-maintainer household",,4035,,535,,3500,
+"Age group of primary household maintainers","Total - Private households by age of primary household maintainers - 25% sample data",16,92130,,10675,,81455,
+"Age group of primary household maintainers","15 to 24 years",,3765,,810,,2960,
+"Age group of primary household maintainers","25 to 34 years",,15380,,2540,,12840,
+"Age group of primary household maintainers","35 to 44 years",,19040,,2430,,16605,
+"Age group of primary household maintainers","45 to 54 years",,15270,,2040,,13225,
+"Age group of primary household maintainers","55 to 64 years",,16545,,1640,,14905,
+"Age group of primary household maintainers","65 to 74 years",,12405,,900,,11510,
+"Age group of primary household maintainers","75 to 84 years",,6640,,255,,6385,
+"Age group of primary household maintainers","85 years and over",,3085,,55,,3030,
+"Shelter-cost-to-income ratio","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data",17,91685,,10625,,81060,
+"Shelter-cost-to-income ratio","Spending less than 30% of income on shelter costs",,73980,,7770,,66210,
+"Shelter-cost-to-income ratio","Spending 30% or more of income on shelter costs",,17705,,2855,,14850,
+"Shelter-cost-to-income ratio","30% to less than 100%",,16160,,2650,,13510,
+"Housing indicators","Total - Occupied private dwellings by housing indicators - 25% sample data",18,92130,,10675,,81455,
+"Housing indicators","Total - Households 'spending 30% or more of income on shelter costs' or 'not suitable' or 'major repairs needed'",,27315,,4435,,22880,
+"Housing indicators","Spending 30% or more of income on shelter costs only",,15445,,2300,,13150,
+"Housing indicators","Not suitable only",,4395,,770,,3625,
+"Housing indicators","Major repairs needed only",,4830,,670,,4160,
+"Housing indicators","'Spending 30% or more of income on shelter costs' and 'not suitable'",,750,,190,,560,
+"Housing indicators","'Spending 30% or more of income on shelter costs' and 'major repairs needed'",,1425,,325,,1100,
+"Housing indicators","'Not suitable' and 'major repairs needed'",,380,,140,,240,
+"Housing indicators","'Spending 30% or more of income on shelter costs' and 'not suitable' and 'major repairs needed'",,85,,45,,40,
+"Housing indicators","Acceptable housing",,64815,,6240,,58575,
+"Core housing need","Total - Owner and tenant households with household total income greater than zero and shelter-cost-to-income ratio less than 100%, in non-farm, non-reserve private dwellings - 25% sample data",19,90140,,10425,,79720,
+"Core housing need","In core need",,9285,,2215,,7070,
+"Core housing need","Not in core need",,80850,,8210,,72645,
+"Number of owner households in non-farm, non-reserve private dwellings","Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data",,61210,,4475,,56735,
+"Number of owner households in non-farm, non-reserve private dwellings","% of owner households with a mortgage",20,63,,77.1,,61.9,
+"Number of owner households in non-farm, non-reserve private dwellings","% of owner households spending 30% or more of its income on shelter costs",21,11.2,,11.9,,11.1,
+"Number of owner households in non-farm, non-reserve private dwellings","% in core housing need",22,4.1,,6.2,,3.9,
+"Number of owner households in non-farm, non-reserve private dwellings","Median monthly shelter costs for owned dwellings ($)",23,1400,,1600,,1380,
+"Number of owner households in non-farm, non-reserve private dwellings","Average monthly shelter costs for owned dwellings ($)",23,1462,,1610,,1450,
+"Number of owner households in non-farm, non-reserve private dwellings","Median value of dwellings ($)",24,340000,,300000,,344000,
+"Number of owner households in non-farm, non-reserve private dwellings","Average value of dwellings ($)",24,361600,,329200,,364000,
+"Number of tenant households in non-farm, non-reserve private dwellings","Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data",,30910,,6200,,24710,
+"Number of tenant households in non-farm, non-reserve private dwellings","% of tenant households in subsidized housing",25,14.9,,26,,12.2,
+"Number of tenant households in non-farm, non-reserve private dwellings","% of tenant households spending 30% or more of its income on shelter costs",21,35.5,,37.8,,35,
+"Number of tenant households in non-farm, non-reserve private dwellings","% in core housing need",26,23.1,,32.4,,20.7,
+"Number of tenant households in non-farm, non-reserve private dwellings","Median monthly shelter costs for rented dwellings ($)",23,1150,,1140,,1150,
+"Number of tenant households in non-farm, non-reserve private dwellings","Average monthly shelter costs for rented dwellings ($)",23,1214,,1177,,1223,
+"Number of households living in a dwelling provided by the local government, First Nation or Indian band in non-farm private dwellings","Total - Households living in a dwelling provided by the local government, First Nation or Indian band in non-farm private dwellings - 25% sample data",,0,,0,,0,
+"Number of households living in a dwelling provided by the local government, First Nation or Indian band in non-farm private dwellings","% of households living in a dwelling provided by the local government, First Nation or Indian band spending more than 30% on shelter costs",21,,...,,...,,...
+"Number of households living in a dwelling provided by the local government, First Nation or Indian band in non-farm private dwellings","Median monthly shelter costs for dwellings provided by local government, First Nation or Indian band ($)",23,,...,,...,,...
+"Number of households living in a dwelling provided by the local government, First Nation or Indian band in non-farm private dwellings","Average monthly shelter costs for dwellings provided by local government, First Nation or Indian band ($)",23,,...,,...,,...
+"Income statistics for private households","Total - Income statistics in 2020 for private households by household size - 25% sample data",27,92125,,10675,,81455,
+"Income statistics for private households","Median total income of households in 2020 ($)",,88000,,72000,,90000,
+"Income statistics for private households","Average total income of households in 2020 ($)",,106100,,89800,,108200,
+"Income statistics for private households","Median after-tax income of households in 2020 ($)",,76500,,66500,,78000,
+"Income statistics for private households","Average after-tax income of households in 2020 ($)",,88500,,77900,,89900,
+"Income statistics for private households","Total - Income statistics in 2020 for one-person private households - 25% sample data",,27865,,2360,,25500,
+"Income statistics for private households","Median total income of one-person households in 2020 ($)",,48000,,32800,,49200,
+"Income statistics for private households","Average total income of one-person households in 2020 ($)",,57450,,43880,,58700,
+"Income statistics for private households","Median after-tax income of one-person households in 2020 ($)",,42000,,30800,,43200,
+"Income statistics for private households","Average after-tax income of one-person households in 2020 ($)",,47920,,38040,,48800,
+"Income statistics for private households","Total - Income statistics in 2020 for two-or-more-person private households - 25% sample data",,64265,,8315,,55950,
+"Income statistics for private households","Median total income of two-or-more-person households in 2020 ($)",,111000,,84000,,114000,
+"Income statistics for private households","Average total income of two-or-more-person households in 2020 ($)",,127200,,102900,,130800,
+"Income statistics for private households","Median after-tax income of two-or-more-person households in 2020 ($)",,96000,,76500,,98000,
+"Income statistics for private households","Average after-tax income of two-or-more-person households in 2020 ($)",,106100,,89200,,108600,
+"Household total income groups","Total - Household total income groups in 2020 for private households - 25% sample data",28,92130,,10675,,81455,
+"Household total income groups","Under $5,000",,960,,155,,800,
+"Household total income groups","$5,000 to $9,999",,435,,60,,375,
+"Household total income groups","$10,000 to $14,999",,710,,145,,560,
+"Household total income groups","$15,000 to $19,999",,1350,,225,,1125,
+"Household total income groups","$20,000 to $24,999",,3255,,455,,2805,
+"Household total income groups","$25,000 to $29,999",,2805,,460,,2340,
+"Household total income groups","$30,000 to $34,999",,2830,,505,,2325,
+"Household total income groups","$35,000 to $39,999",,3100,,490,,2610,
+"Household total income groups","$40,000 to $44,999",,3150,,440,,2705,
+"Household total income groups","$45,000 to $49,999",,3255,,450,,2805,
+"Household total income groups","$50,000 to $59,999",,6895,,985,,5905,
+"Household total income groups","$60,000 to $69,999",,6460,,785,,5675,
+"Household total income groups","$70,000 to $79,999",,6270,,810,,5455,
+"Household total income groups","$80,000 to $89,999",,5890,,645,,5245,
+"Household total income groups","$90,000 to $99,999",,5370,,535,,4840,
+"Household total income groups","$100,000 and over",,39390,,3515,,35880,
+"Household total income groups","$100,000 to $124,999",,11340,,1050,,10290,
+"Household total income groups","$125,000 to $149,999",,8575,,785,,7785,
+"Household total income groups","$150,000 to $199,999",,10660,,890,,9770,
+"Household total income groups","$200,000 and over",,8825,,795,,8035,
+"Household after-tax income groups","Total - Household after-tax income groups in 2020 for private households - 25% sample data",29,92130,,10675,,81455,
+"Household after-tax income groups","Under $5,000",,1050,,155,,890,
+"Household after-tax income groups","$5,000 to $9,999",,440,,60,,380,
+"Household after-tax income groups","$10,000 to $14,999",,740,,145,,600,
+"Household after-tax income groups","$15,000 to $19,999",,1415,,245,,1170,
+"Household after-tax income groups","$20,000 to $24,999",,3445,,490,,2960,
+"Household after-tax income groups","$25,000 to $29,999",,3265,,495,,2770,
+"Household after-tax income groups","$30,000 to $34,999",,3520,,560,,2960,
+"Household after-tax income groups","$35,000 to $39,999",,3710,,540,,3170,
+"Household after-tax income groups","$40,000 to $44,999",,3945,,470,,3470,
+"Household after-tax income groups","$45,000 to $49,999",,4055,,505,,3550,
+"Household after-tax income groups","$50,000 to $59,999",,7965,,1070,,6895,
+"Household after-tax income groups","$60,000 to $69,999",,7690,,985,,6700,
+"Household after-tax income groups","$70,000 to $79,999",,7315,,880,,6435,
+"Household after-tax income groups","$80,000 to $89,999",,6590,,670,,5925,
+"Household after-tax income groups","$90,000 to $99,999",,5740,,575,,5165,
+"Household after-tax income groups","$100,000 and over",,31245,,2830,,28415,
+"Household after-tax income groups","$100,000 to $124,999",,11810,,1070,,10745,
+"Household after-tax income groups","$125,000 to $149,999",,7805,,675,,7130,
+"Household after-tax income groups","$150,000 and over",,11620,,1085,,10540,
+
+Symbol(s):
+..., not applicable
+
+
+Notes:
+1,Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain reserves and settlements in the Census of Population.
+For more information on Indigenous variables  including information on their classifications  the questions from which they are derived  data quality and their comparability with other sources of data  please refer to the Indigenous Peoples Reference Guide  Census of Population  2021 and the Indigenous Peoples Technical Report  Census of Population  2021.
+
+2,An Indigenous household is one of the following: i) a non-family household in which at least 50 per cent of household members self-identified as Indigenous people; or ii) a family household that meets at least one of two criteria: a) at least one spouse  common-law partner  or lone parent self-identified as an Indigenous person; or b) at least 50 per cent of household members self-identified as Indigenous people. An Indigenous person is anybody identifying as an Indigenous person (question 24 on the 2021 Census long-form questionnaire)  or who is a Treaty Indian or Registered Indian (question 26)  a member of an Indian Band/First Nation (question 27)  a registered member of a Metis organization or settlement (question 28) or enrolled under  or a beneficiary of  an Inuit land claims agreement (question 29).
+
+3,There is no age restriction on children. Includes children living with a grandparent or grandparents without a parent present.
+
+4,Multigenerational households represent all households where there is at least one person who is both the grandparent of a person in the household and the parent of another person in the same household. They also represent all households where there is at least one person who is both the child of a person in the household and the grandchild of another person in the same household. In previous censuses  multigenerational households were only created based on the former definition  not the latter. As a result  there may be small differences in counts for 2011 and 2016 in archived tables.
+
+5,Excludes multigenerational households.
+
+6,Tenure refers to whether the household owns or rents their private dwelling. The private dwelling may be situated on rented or leased land or be part of a condominium. A household is considered to own their dwelling if some member of the household owns the dwelling even if it is not fully paid for  for example if there is a mortgage or some other claim on it. A household is considered to rent their dwelling if no member of the household owns the dwelling. A household is considered to rent that dwelling even if the dwelling is provided without cash rent or at a reduced rent  or if the dwelling is part of a cooperative.
+For historical and statutory reasons  shelter occupancy on Indian reserves or settlements does not lend itself to the usual classification by standard tenure categories. Therefore  a special category  'dwelling provided by the local government  First Nation or Indian band ' has been created for census purposes.
+
+7,Condominium status refers to whether the private dwelling is part of a condominium development. A condominium is a residential complex in which dwellings are owned individually while land and common elements are held in joint ownership with others.
+
+8,Bedrooms refers to rooms in a private dwelling that are designed mainly for sleeping purposes even if they are now used for other purposes  such as guest rooms and television rooms. Also included are rooms used as bedrooms now  even if they were not originally built as bedrooms  such as bedrooms in a finished basement. Bedrooms exclude rooms designed for another use during the day such as dining rooms and living rooms even if they may be used for sleeping purposes at night. By definition  one-room private dwellings such as bachelor or studio apartments have zero bedrooms.
+
+9,Rooms refers to enclosed areas within a private dwelling which are finished and suitable for year round living. The number of rooms in a private dwelling includes kitchens  bedrooms and finished rooms in the attic or basement. The number of rooms in a private dwelling excludes bathrooms  halls  vestibules and rooms used solely for business purposes. Partially divided rooms are considered to be separate rooms if they are considered as such by the respondent (e.g.  L-shaped dining-room and living-room arrangements).
+
+10,Number of persons per room - Refers to an indicator of the level of crowding in a private dwelling. It is calculated by dividing the number of persons in the household by the number of rooms in the dwelling.
+
+11,Housing suitability refers to whether a private household is living in suitable accommodations according to the National Occupancy Standard (NOS); that is  whether the dwelling has enough bedrooms for the size and composition of the household. A household is deemed to be living in suitable accommodations if its dwelling has enough bedrooms  as calculated using the NOS.
+'Housing suitability' assesses the required number of bedrooms for a household based on the age  sex  and relationships among household members. An alternative variable  'persons per room ' considers all rooms in a private dwelling and the number of household members.Housing suitability and the National Occupancy Standard (NOS) on which it is based were developed by Canada Mortgage and Housing Corporation (CMHC) through consultations with provincial housing agencies.
+
+12,Period of construction refers to the period in time during which the building or dwelling was originally constructed.
+This refers to the period in which the building was completed  not the time of any later remodeling  additions or conversions.
+For properties having multiple residential structures  this refers to the period in which the most recent structure was completed.
+
+13,Includes data up to May 11  2021.
+
+14,Dwelling condition refers to whether the dwelling is in need of repairs. This does not include desirable remodelling or additions.
+
+15,Refers to whether or not a person residing in the household is responsible for paying the rent  or the mortgage  or the taxes  or the electricity or other services or utilities. Where a number of people may contribute to the payments  more than one person in the household may be identified as a household maintainer. If no person in the household is identified as making such payments  the reference person is identified by default.
+
+16,Primary household maintainer - The first person in the household identified as someone who pays the rent  or the mortgage  or the taxes  or the electricity or other services or utilities for the dwelling. When more than one member of the household contributes to the payments  the first person listed is chosen as the primary household maintainer. If no person in the household is identified as making any such payments  the first person listed is selected by default.
+The order of the persons in a household is determined by the order in which they are listed on the questionnaire. Generally  an adult is listed first followed  if applicable  by their spouse or common-law partner and then by their children. The order does not necessarily correspond to the proportion of household payments made by each person.
+
+17,Shelter-cost-to-income ratio - Refers to the proportion of average total income of household which is spent on shelter costs.
+Shelter-cost-to-income ratio is calculated for private households who reported a total household income greater than zero.
+Private households located on an agricultural operation that is operated by a member of the household  and households who reported a zero or negative total household income are excluded.
+The relatively high shelter-costs-to-household income ratios for some households may have resulted from the difference in the reference period for shelter costs and household total income data. The reference period for shelter cost data is 2021  while household total income is reported for the year 2020. As well  for some households  the 2020 household total income may represent income for only part of a year.
+For more information on household total income or shelter costs  refer to the Census Dictionary: Total income and Shelter cost.
+
+18,Acceptable housing refers to whether a household meets each of the three indicator thresholds established by the Canada Mortgage and Housing Corporation for housing adequacy  suitability and affordability.
+Housing indicator thresholds are defined as follows:
+    *Adequate housing is reported by their residents as not requiring any major repairs.
+,    *Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
+,    *Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS)  conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
+,Acceptable housing identifies which thresholds the household falls below  if any. Housing that is adequate in condition  suitable in size and affordable is considered to be acceptable. 
+Households below and above the thresholds are based on the indicators for which individual households can be assessed. Farm and on-reserve households whose housing does not meet either or both of the suitability and adequacy thresholds are counted in the total of households below the thresholds. Farm and on-reserve households who live in housing that meets both the suitability and adequacy thresholds are counted in the total of households above the thresholds (even though it is not possible to assess housing affordability for these households). Farm households and on-reserve households cannot be assessed for housing affordability because the concept is not applicable.
+Housing affordability is assessed for owner and tenant households with household total income greater than zero in non-farm  non-reserve private dwellings.
+
+19,Core housing need refers to whether a private household's housing falls below at least one of the indicator thresholds for housing adequacy  affordability or suitability  and would have to spend 30% or more of its total before-tax income to pay the median rent of alternative local housing that is acceptable (attains all three housing indicator thresholds).
+Housing indicator thresholds are defined as follows:
+    *Adequate housing is reported by their residents as not requiring any major repairs.
+,    *Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
+,    *Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS)  conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
+,Only private  non-farm  non-reserve and owner- or renter-households with incomes greater than zero and shelter-cost-to-income ratios less than 100% are assessed for 'core housing need.'
+Non-family households with at least one maintainer aged 15 to 29 attending school are considered not to be in 'core housing need' regardless of their housing circumstances. Attending school is considered a transitional phase  and low incomes earned by student households are viewed as being a temporary condition.
+
+20,Presence of mortgage payments refers to whether an owner household makes regular mortgage or loan payments for their dwelling.
+
+21,Shelter-cost-to-income ratio - Refers to the proportion of average total income of household which is spent on shelter costs.
+Shelter-cost-to-income ratio is calculated for private households who reported a total household income greater than zero.
+Private households located on an agricultural operation that is operated by a member of the household  and households who reported a zero or negative total household income are excluded.
+The relatively high shelter-costs-to-household income ratios for some households may have resulted from the difference in the reference period for shelter costs and household total income data. The reference period for shelter cost data is 2021  while household total income is reported for the year 2020. As well  for some households  the 2020 household total income may represent income for only part of a year.
+For more information on household total income or shelter costs  refer to the Census Dictionary: Total income and Shelter cost.
+
+22,Core housing need refers to whether a private household's housing falls below at least one of the indicator thresholds for housing adequacy  affordability or suitability  and would have to spend 30% or more of its total before-tax income to pay the median rent of alternative local housing that is acceptable (attains all three housing indicator thresholds). 
+Housing indicator thresholds are defined as follows:
+    *Adequate housing is reported by their residents as not requiring any major repairs.
+,    *Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
+,    *Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS)  conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
+,Only private  non-farm  non-reserve and owner- or renter-households with incomes greater than zero and shelter-cost-to-income ratios less than 100% are assessed for 'core housing need.'
+Non-family households with at least one maintainer aged 15 to 29 attending school are considered not to be in 'core housing need' regardless of their housing circumstances. Attending school is considered a transitional phase  and low incomes earned by student households are viewed as being a temporary condition.
+
+23,Shelter cost refers to the average monthly total of all shelter expenses paid by households.
+Shelter costs for owner households include  where applicable  mortgage payments  property taxes and condominium fees  along with the costs of electricity  heat  water and other municipal services. For renter households  shelter costs include  where applicable  the rent and the costs of electricity  heat  water and other municipal services. For households living in a dwelling provided by the local government  First Nation or Indian band  shelter costs include  where applicable  the monthly use or occupancy payment and the costs of electricity  heat  water and other municipal services.
+
+24,Value (owner estimated) refers to the dollar amount expected by the owner if the asset were to be sold.
+In the context of dwelling  it refers to the value of the entire dwelling  including the value of the land it is on and of any other structure  such as a garage  which is on the property. If the dwelling is located in a building which contains several dwellings  or a combination of residential and business premises  all of which the household owns  the value is estimated as a portion of the market value that applies only to the dwelling in which the household resides.
+
+25,Subsidized housing refers to whether a renter household lives in a dwelling that is subsidized. Subsidized housing includes rent geared to income  social housing  public housing  government-assisted housing  non-profit housing  rent supplements and housing allowances.
+
+26,Core housing need refers to whether a private household's housing falls below at least one of the indicator thresholds for housing adequacy  affordability or suitability  and would have to spend 30% or more of its total before-tax income to pay the median rent of alternative local housing that is acceptable (attains all three housing indicator thresholds).
+Housing indicator thresholds are defined as follows:
+    *Adequate housing is reported by their residents as not requiring any major repairs.
+,    *Affordable housing has shelter costs equal to less than 30% of total before-tax household income.
+,    *Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS)  conceived by the Canada Mortgage and Housing Corporation and provincial and territorial representatives.
+,Only private  non-farm  non-reserve and owner- or renter-households with incomes greater than zero and shelter-cost-to-income ratios less than 100% are assessed for 'core housing need.'
+Non-family households with at least one maintainer aged 15 to 29 attending school are considered not to be in 'core housing need' regardless of their housing circumstances. Attending school is considered a transitional phase  and low incomes earned by student households are viewed as being a temporary condition.
+
+27,Total income - The sum of certain incomes (in cash and  in some circumstances  in kind) of the statistical unit during a specified reference period. The components used to calculate total income vary between:
+    *statistical units of social statistical programs such as persons  private households  census families and economic families;
+,    *statistical units of business statistical programs such as enterprises  companies  establishments and locations;
+,    *statistical units of farm statistical programs such as farm operator and farm family.
+,In the context of persons  total income refers to receipts from certain sources  before income taxes and deductions  during a specified reference period.
+In the context of census families  total income refers to receipts from certain sources of all of its family members  before income taxes and deductions  during a specified reference period.
+In the context of economic families  total income refers to receipts from certain sources of all of its family members  before income taxes and deductions  during a specified reference period.
+In the context of households  total income refers to receipts from certain sources of all household members  before income taxes and deductions  during a specified reference period.
+The monetary receipts included are those that tend to be of a regular and recurring nature. Receipts that are included as income are:
+    *employment income from wages  salaries  tips  commissions and net income from self-employment (for both unincorporated farm and non-farm activities);
+,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
+,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
+,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,Receipts excluded from this income definition are:
+    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
+,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
+,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
+For the 2021 Census  the reference period for income data is the calendar year 2020  unless otherwise specified.
+Median income - The median income of a specified group is the amount that divides the income distribution of that group into two halves  i.e.  the incomes of half of the units in that group are below the median  while those of the other half are above the median. Median incomes of households are calculated for all units  whether or not they had income.
+Average income - Average income of a specified group is calculated by dividing the aggregate income of that group by the number of units in that group. Average incomes of households are calculated for all units  whether or not they had income.
+
+28,Total income - The sum of certain incomes (in cash and  in some circumstances  in kind) of the statistical unit during a specified reference period. The components used to calculate total income vary between:
+    *statistical units of social statistical programs such as persons  private households  census families and economic families;
+,    *statistical units of business statistical programs such as enterprises  companies  establishments and locations;
+,    *statistical units of farm statistical programs such as farm operator and farm family.
+,In the context of persons  total income refers to receipts from certain sources  before income taxes and deductions  during a specified reference period.
+In the context of census families  total income refers to receipts from certain sources of all of its family members  before income taxes and deductions  during a specified reference period.
+In the context of economic families  total income refers to receipts from certain sources of all of its family members  before income taxes and deductions  during a specified reference period.
+In the context of households  total income refers to receipts from certain sources of all household members  before income taxes and deductions  during a specified reference period.
+The monetary receipts included are those that tend to be of a regular and recurring nature. Receipts that are included as income are:
+    *employment income from wages  salaries  tips  commissions and net income from self-employment (for both unincorporated farm and non-farm activities);
+,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
+,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
+,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,Receipts excluded from this income definition are:
+    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
+,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
+,For the 2021 Census  the reference period for income data is the calendar year 2020  unless otherwise specified.
+
+29,After-tax income - After-tax income refers to total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
+For the 2021 Census  the reference period for income data is the calendar year 2020  unless otherwise specified.
+
+
+Data quality:
+"Regina  City [Census subdivision]  Saskatchewan"
+"Total non-response (TNR) rate  short-form census questionnaire: 2.8%"
+"Total non-response (TNR) rate  long-form census questionnaire: 3.5%"
+
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+How to cite: Statistics Canada. 2023. Regina  City [Census subdivision]  Saskatchewan (table). Indigenous Population Profile. 2021 Census of Population. Statistics Canada Catalogue no. 98-510-X2021001. Ottawa. Released June 21 2023.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/ipp-ppa/index.cfm?Lang=E

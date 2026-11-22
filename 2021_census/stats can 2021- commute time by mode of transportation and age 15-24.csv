@@ -1,0 +1,63 @@
+﻿"Main mode of commuting by commuting duration, time leaving for work, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+"Frequency: Occasional"
+"Table: 98-10-0457-01"
+"Release date: 2022-11-30"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+"Universe: Employed labour force aged 15 years and over having a usual place of work or no fixed workplace address, in private households, 2021 Census — 25% Sample data"
+"Variable List: Main mode of commuting (21), Time leaving for work (7), Age (15A), Gender (3), Statistics (3), Commuting duration (7)"
+
+"Geography","Regina (CMA), Sask. i116",,,,,,
+"Time leaving for work (7) 1","Total - Time leaving for work",,,,,,
+"Age (15A) 2","15 to 24 years",,,,,,
+"Gender (3) 3 4","Total - Gender",,,,,,
+"Statistics (3)","Count",,,,,,
+"Commuting duration (7) 5","Total - Commuting duration","Less than 15 minutes","15 to 29 minutes","30 to 44 minutes","45 to 59 minutes","60 minutes and over","Average commuting duration (in minutes)"
+"Main mode of commuting (21) 6"
+"Total - Main mode of commuting 7","13,815","6,090","6,085","960","375","300","16.2"
+"Car, truck or van","12,150","5,465","5,660","670","220","145","15.3"
+"Car, truck or van - as a driver","10,585","4,685","5,020","585","190","110","15.3"
+"Driver (only worker in vehicle)","10,005","4,485","4,695","555","180","90","15.1"
+"Driver with 1 passenger","535","185","305","20","10","15","17.5"
+"Driver with 2 or more passengers","45","10","20","10","0","0","24.8"
+"Car, truck or van - as a passenger","1,560","775","640","85","25","35","15.1"
+"Passenger (only worker in vehicle)","790","420","300","55","0","10","13.7"
+"Passenger with 2 or more workers","655","330","260","25","25","20","16.6"
+"Passenger with 3 or more workers","115","25","80","0","0","0","16.6"
+"Sustainable transportation","1,500","535","365","285","160","155","24.5"
+"Public transit","890","130","230","230","155","145","32.7"
+"Bus","885","120","230","230","155","145","33.0"
+"Subway or elevated rail","0","0","0","0","0","0","0.0"
+"Light rail, streetcar or commuter train","0","0","0","0","0","0","0.0"
+"Passenger ferry","10","10","0","0","0","0","0.0"
+"Active transportation","610","410","135","55","0","15","12.5"
+"Walked","530","365","100","50","0","15","12.5"
+"Bicycle","80","45","30","0","0","0","12.6"
+"Motorcycle, scooter or moped","0","0","0","0","0","0","0.0"
+"Other method","160","95","50","10","0","0","11.3"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i116,"Geography name: Regina; Geographic area type: Census metropolitan area; Geographic area type abbreviation: CMA; Geographic level: Census metropolitan area; Province or territory abbreviation: Sask.; Dissemination Geography Unique Identifier (DGUID): 2021S0503705; Alternative geographic code: 705; Province or territory geocode: 47; Long-form total non-response rate: 3.6; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Time leaving for work  Time leaving for work refers to the time of day at which a person usually leaves to go to their place of work."
+2,"Age    'Age' refers to the age of a person (or subject) of interest at last birthday (or relative to a specified, well-defined reference date)."
+3,"Gender  Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman).   Gender includes the following concepts:   gender identity, which refers to the gender that a person feels internally and individually;   gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender.  A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time.   Some people may not identify with a specific gender."
+4,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol."
+5,"Commuting duration  Commuting duration refers to the length of time, in minutes, usually required by a person to travel to their place of work."
+6,"Main mode of commuting  Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work."
+7,"The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0457-01  Main mode of commuting by commuting duration, time leaving for work, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045701

@@ -1,0 +1,63 @@
+﻿"Main mode of commuting by industry sectors, occupation broad category and gender: Canada, provinces and territories, census divisions and census subdivisions"
+"Frequency: Occasional"
+"Table: 98-10-0464-01"
+"Release date: 2022-11-30"
+"Geography: Canada, Province or territory, Census division, Census subdivision"
+"Universe: Employed labour force aged 15 years and over having a usual place of work or no fixed workplace address, in private households, 2021 Census — 25% Sample data"
+"Variable List: Industry - Sectors - North American Industry Classification System (NAICS) 2017 (21), Occupation - Broad category - National Occupational Classification (NOC) 2021 (11), Gender (3), Statistics (3), Main mode of commuting (11A)"
+
+"Geography","Regina i3404",,,,,,,,,,
+"Occupation - Broad category - National Occupational Classification (NOC) 2021 (11) 1","Total - Occupation - Broad category - National Occupational Classification (NOC) 2021 4",,,,,,,,,,
+"Gender (3) 2 3","Total - Gender",,,,,,,,,,
+"Statistics (3)","Count",,,,,,,,,,
+"Main mode of commuting (11A) 5","Total - Main mode of commuting 7","Car, truck or van","Driver (only worker in vehicle)","Passenger (only worker in vehicle)","2 or more persons shared the ride to work","Driver with 1 or more workers","Passenger with 2 or more workers","Sustainable transportation","Public transit","Active transportation","Other method"
+"Industry - Sectors - North American Industry Classification System (NAICS) 2017 (21) 6"
+"Total - Industry - Sectors - North American Industry Classification System (NAICS) 2017 8","87,125","78,590","69,070","2,950","6,580","3,540","3,035","6,805","3,145","3,660","1,730"
+"11 Agriculture, forestry, fishing and hunting","685","635","535","25","80","55","25","30","10","20","20"
+"21 Mining, quarrying, and oil and gas extraction","785","735","610","0","120","90","20","10","0","0","40"
+"22 Utilities","1,050","935","855","20","60","40","20","70","25","45","45"
+"23 Construction","6,820","6,615","5,730","115","775","490","285","110","45","60","95"
+"31-33 Manufacturing","4,420","4,285","3,960","90","230","135","100","105","55","50","30"
+"41 Wholesale trade","3,525","3,390","3,075","55","260","150","110","105","60","40","30"
+"44-45 Retail trade","12,405","10,765","9,205","695","860","350","510","1,480","820","665","165"
+"48-49 Transportation and warehousing","4,405","4,200","3,885","75","250","185","60","150","75","75","55"
+"51 Information and cultural industries","1,595","1,280","1,100","40","140","50","85","250","80","165","65"
+"52 Finance and insurance","3,200","2,695","2,330","135","225","125","100","375","200","170","135"
+"53 Real estate and rental and leasing","1,435","1,320","1,235","30","65","50","15","80","15","60","30"
+"54 Professional, scientific and technical services","3,555","3,100","2,815","60","215","100","115","330","110","215","130"
+"55 Management of companies and enterprises","90","80","80","0","0","0","0","0","0","0","10"
+"56 Administrative and support, waste management and remediation services","3,385","3,050","2,435","85","535","295","240","275","180","90","60"
+"61 Educational services","6,235","5,760","5,230","135","395","270","120","385","130","260","90"
+"62 Health care and social assistance","14,985","13,630","12,050","705","875","350","530","1,065","455","615","280"
+"71 Arts, entertainment and recreation","1,285","1,195","1,075","40","75","30","45","60","25","40","25"
+"72 Accommodation and food services","5,900","4,670","3,590","400","685","285","400","1,160","570","590","65"
+"81 Other services (except public administration)","4,420","4,015","3,580","125","315","185","130","305","95","205","100"
+"91 Public administration","6,955","6,235","5,705","120","415","285","130","480","190","290","240"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i3404,"Geography name: Regina; Geographic area type: City; Geographic area type abbreviation: CY; Geographic level: Census subdivision; Province or territory abbreviation: Sask.; Dissemination Geography Unique Identifier (DGUID): 2021A00054706027; Alternative geographic code: 4706027; Province or territory geocode: 47; Long-form total non-response rate: 3.5; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Occupation (based on the National Occupational Classification [NOC] 2021 Version 1.0)  Occupation refers to the kind of work performed in a job, a job being all the tasks carried out by a particular worker to complete his or her duties. An occupation is a set of jobs that are sufficiently similar in work performed.  Kind of work is described in terms of tasks, duties and responsibilities, often including factors such as materials processed or used, the industrial processes used, the equipment used, and the products or services provided. Occupations are generally homogeneous with respect to skill type and skill level.  Occupation applies to the contribution of labour to that part of economic activity that is within the production boundary defined for the System of National Accounts."
+2,"Gender  Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman).   Gender includes the following concepts:   gender identity, which refers to the gender that a person feels internally and individually;   gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender.  A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time.   Some people may not identify with a specific gender."
+3,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol."
+4,"Refers to the kind of work performed by persons aged 15 years and over as determined by their kind of work and the description of the main activities in their job. The occupation data are produced according to the National Occupational Classification [NOC] 2021 version 1.0."
+5,"Main mode of commuting  Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work."
+7,"The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting."
+6,"Industry (based on the North American Industry Classification System [NAICS] Canada 2017 Version 3.0)  Industry refers to a generally homogeneous group of economic producing units, primarily engaged in a specific set of activities. An activity is a particular method of combining goods and services inputs, labour and capital to produce one or more goods and/or services (products). In most cases, the activities that define an industry are homogeneous with respect to the production processes used."
+8,"Refers to the general nature of the business carried out in the establishment where the person worked. The industry data are produced according to the North American Industry Classification System (NAICS) Canada 2017 Version 3.0."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0464-01  Main mode of commuting by industry sectors, occupation broad category and gender: Canada, provinces and territories, census divisions and census subdivisions"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810046401

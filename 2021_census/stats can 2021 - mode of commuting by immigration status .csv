@@ -1,0 +1,60 @@
+﻿"Main mode of commuting by immigrant status and period of immigration, visible minority, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+"Frequency: Occasional"
+"Table: 98-10-0468-01"
+"Release date: 2022-11-30"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+"Universe: Employed labour force aged 15 years and over having a usual place of work or no fixed workplace address, in private households, 2021 Census — 25% Sample data"
+"Variable List: Main mode of commuting (11A), Visible minority (15), Age (15A), Gender (3), Statistics (3), Immigrant status and period of immigration (11)"
+
+"Geography","Regina (CMA), Sask. i116",,,,,,,,,,
+"Visible minority (15) 1","Total - Visible minority 5 6",,,,,,,,,,
+"Age (15A) 2","Total - Age",,,,,,,,,,
+"Gender (3) 3 4","Total - Gender",,,,,,,,,,
+"Statistics (3)","Count",,,,,,,,,,
+"Immigrant status and period of immigration (11)","Total - Immigrant status and period of immigration 8","Non-immigrants 9","Immigrants 10","Before 1980","1980 to 1990","1991 to 2000","2001 to 2010","2011 to 2021 11","2011 to 2015","2016 to 2021 12","Non-permanent residents 13"
+"Main mode of commuting (11A) 7"
+"Total - Main mode of commuting 14","96,090","70,070","22,750","930","950","1,585","5,455","13,830","7,465","6,365","3,275"
+"Car, truck or van","87,055","64,735","20,155","860","905","1,465","4,990","11,935","6,665","5,280","2,165"
+"Driver (only worker in vehicle)","76,905","59,290","15,955","740","775","1,265","4,000","9,175","5,270","3,905","1,655"
+"Passenger (only worker in vehicle)","3,030","1,505","1,340","30","45","45","325","895","475","420","185"
+"2 or more persons shared the ride to work","7,120","3,935","2,860","90","75","155","665","1,870","920","955","330"
+"Driver with 1 or more workers","3,885","2,285","1,430","60","60","85","320","905","475","430","165"
+"Passenger with 2 or more workers","3,235","1,650","1,430","35","20","70","345","965","440","525","160"
+"Sustainable transportation","7,120","3,945","2,110","45","30","85","345","1,610","635","975","1,060"
+"Public transit","3,150","1,165","1,245","0","20","45","150","1,030","375","655","740"
+"Active transportation","3,970","2,780","870","35","20","40","195","580","265","320","320"
+"Other method","1,915","1,385","485","35","15","35","125","285","165","115","40"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i116,"Geography name: Regina; Geographic area type: Census metropolitan area; Geographic area type abbreviation: CMA; Geographic level: Census metropolitan area; Province or territory abbreviation: Sask.; Dissemination Geography Unique Identifier (DGUID): 2021S0503705; Alternative geographic code: 705; Province or territory geocode: 47; Long-form total non-response rate: 3.6; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Visible minority  Visible minority refers to whether a person is a visible minority or not, as defined by the Employment Equity Act. The Employment Equity Act defines visible minorities as "persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian, Chinese, Black, Filipino, Arab, Latin American, Southeast Asian, West Asian, Korean and Japanese."
+2,"Age    'Age' refers to the age of a person (or subject) of interest at last birthday (or relative to a specified, well-defined reference date)."
+3,"Gender  Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman).   Gender includes the following concepts:   gender identity, which refers to the gender that a person feels internally and individually;   gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender.  A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time.   Some people may not identify with a specific gender."
+4,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol."
+5,""Visible minority" refers to whether a person is a visible minority or not, as defined by the Employment Equity Act. The Employment Equity Act defines visible minorities as "persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian, Chinese, Black, Filipino, Arab, Latin American, Southeast Asian, West Asian, Korean and Japanese.   In 2021 Census analytical and communications products, the term "visible minority" has been replaced by the terms "racialized population" or "racialized groups", reflecting the increased use of these terms in the public sphere."
+6,"For more information on visible minority and population group variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Visible Minority and Population Group Reference Guide, Census of Population, 2021."
+8,"Immigrant status refers to whether the person is a non-immigrant, an immigrant or a non-permanent resident.   Period of immigration refers to the period in which the immigrant first obtained landed immigrant or permanent resident status.   For more information on immigration variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+9,"'Non-immigrants' includes persons who are Canadian citizens by birth."
+10,"'Immigrants' includes persons who are, or who have ever been, landed immigrants or permanent residents. Such persons have been granted the right to live in Canada permanently by immigration authorities. Immigrants who have obtained Canadian citizenship by naturalization are included in this category. In the 2021 Census of Population, 'Immigrants' includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+11,"Includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+12,"Includes immigrants who were admitted to Canada on or prior to May 11, 2021."
+13,"'Non-permanent residents' includes persons from another country with a usual place of residence in Canada and who have a work or study permit or who have claimed refugee status (asylum claimants). Family members living with work or study permit holders are also included, unless these family members are already Canadian citizens, landed immigrants or permanent residents."
+7,"Main mode of commuting  Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work."
+14,"The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0468-01  Main mode of commuting by immigrant status and period of immigration, visible minority, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810046801

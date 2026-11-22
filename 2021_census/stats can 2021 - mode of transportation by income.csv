@@ -1,0 +1,60 @@
+﻿"Main mode of commuting by employment income groups, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+"Frequency: Occasional"
+"Table: 98-10-0463-01"
+"Release date: 2022-11-30"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+"Universe: Employed labour force aged 15 years and over having a usual place of work or no fixed workplace address, in private households, 2021 Census — 25% Sample data"
+"Variable List: Employment income groups (18), Age (15A), Gender (3), Statistics (3), Main mode of commuting (11A)"
+
+"Geography","Regina (CMA), Sask. i116",,,,,,,,,,
+"Age (15A) 1","Total - Age",,,,,,,,,,
+"Gender (3) 2 3","Total - Gender",,,,,,,,,,
+"Statistics (3)","Count",,,,,,,,,,
+"Main mode of commuting (11A) 4","Total - Main mode of commuting 6","Car, truck or van","Driver (only worker in vehicle)","Passenger (only worker in vehicle)","2 or more persons shared the ride to work","Driver with 1 or more workers","Passenger with 2 or more workers","Sustainable transportation","Public transit","Active transportation","Other method"
+"Employment income groups (18) 5"
+"Total - Employment income","96,095","87,055","76,905","3,025","7,125","3,885","3,240","7,120","3,155","3,965","1,915"
+"Without employment income","4,125","3,390","2,685","230","475","220","250","565","285","280","165"
+"With employment income","91,965","83,660","74,220","2,795","6,650","3,670","2,985","6,555","2,865","3,690","1,750"
+"Percentage with employment income","95.7","96.1","96.5","92.4","93.3","94.5","92.1","92.1","90.8","93.1","91.4"
+"Under $5,000 (including loss)","5,245","4,480","3,615","390","475","185","295","595","295","305","165"
+"$5,000 to $9,999","5,375","4,640","3,855","325","470","185","280","620","345","280","110"
+"$10,000 to $19,999","9,720","8,340","7,025","445","875","395","475","1,190","670","525","190"
+"$20,000 to $29,999","8,655","7,630","6,450","345","835","350","485","885","435","450","145"
+"$30,000 to $39,999","9,125","8,225","7,110","325","790","410","380","760","380","380","140"
+"$40,000 to $49,999","9,750","8,945","7,945","305","695","405","290","655","240","415","145"
+"$50,000 to $59,999","8,860","8,265","7,455","200","610","345","265","435","165","270","160"
+"$60,000 to $69,999","7,765","7,355","6,800","120","440","315","120","265","85","180","140"
+"$70,000 to $79,999","6,285","5,910","5,435","100","375","255","125","260","95","165","115"
+"$80,000 to $89,999","5,205","4,870","4,530","70","265","175","90","235","50","185","105"
+"$90,000 to $99,999","4,200","3,975","3,695","50","230","190","35","165","30","135","55"
+"$100,000 and over","11,780","11,030","10,310","125","595","460","140","485","80","400","270"
+"Median employment income ($) 7","48,000","49,600","51,600","27,800","38,800","47,200","29,400","29,800","22,600","37,200","47,200"
+"Average employment income ($) 8","56,750","58,050","59,950","34,360","47,200","55,450","37,000","40,040","29,880","47,920","56,200"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i116,"Geography name: Regina; Geographic area type: Census metropolitan area; Geographic area type abbreviation: CMA; Geographic level: Census metropolitan area; Province or territory abbreviation: Sask.; Dissemination Geography Unique Identifier (DGUID): 2021S0503705; Alternative geographic code: 705; Province or territory geocode: 47; Long-form total non-response rate: 3.6; Data quality flag: 00000; Data quality note: ..."
+
+
+
+Footnotes:
+1,"Age    'Age' refers to the age of a person (or subject) of interest at last birthday (or relative to a specified, well-defined reference date)."
+2,"Gender  Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman).   Gender includes the following concepts:   gender identity, which refers to the gender that a person feels internally and individually;   gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender.  A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time.   Some people may not identify with a specific gender."
+3,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol."
+4,"Main mode of commuting  Main mode of commuting refers to the main mode of transportation a person uses to travel to their place of work."
+6,"The census assumes that the commute to work originates from the usual place of residence, but this may not always be the case. Sometimes, respondents may be on a business trip and may have reported their place of work or main mode of commuting based on where they were working during the trip. Some persons maintain a residence close to work and commute to their home on weekends. Students often work after school at a location near their school. As a result, the data may show unusual commutes or unusual main modes of commuting."
+5,"Employment income  All income received as wages, salaries and commissions from paid employment and net self-employment income from farm or non-farm unincorporated business and/or professional practice during the reference period.  For the 2021 Census, the reference period for income data is the calendar year 2020, unless otherwise specified."
+7,"The median income of a specified group is the amount that divides the income distribution of that group into two halves, i.e., the incomes of half of the units in that group are below the median, while those of the other half are above the median. Median incomes of individuals are calculated for those with income (positive or negative)."
+8,"Average income of a specified group is calculated by dividing the aggregate income of that group by the number of units in that group. Average incomes are calculated for those with income (positive or negative)."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0463-01  Main mode of commuting by employment income groups, age and gender: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810046301
